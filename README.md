@@ -1,2 +1,3 @@
 # hello-world
-Example to use GitHub
+Example to use GitHub. 
+Let's check commit
